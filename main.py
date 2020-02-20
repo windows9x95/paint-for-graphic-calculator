@@ -8,7 +8,6 @@ from boot import *
 c = color(0,0,0)
 x = 160
 y = 110
-main()
 fill_rect(0,0,640,480,(0,0,255))
 while True:
   draw_string("Microsoft Paint for windows",5,5,(0,0,0),(0,0,255))
